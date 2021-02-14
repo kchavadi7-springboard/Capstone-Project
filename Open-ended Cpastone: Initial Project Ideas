@@ -1,0 +1,19 @@
+Open-ended Cpastone: Initial Project Ideas
+
+Description:
+In this capstone project, I will be working with US Employemnt dataset. The dataset consists of below mentioned details of the all states of US. With such details I could come up with the below mentioned anologoes. This dataset is approximately of 0.7GB. 
+
+
+
+DATASET CONTENTS: 
+Employee dataset consists of the type of employment (Fulltime/contract), job position, salary, department, starting salary, bonus, incremental salary, Typical hours, annual salary, state etc.
+
+
+
+ANOLOGIES:
+- Pay scale per job position in different states
+- Top 5 trending jobs in each state
+- Employee age/experience vs job position
+- Pay range of demanding jobs as per states
+- Effect on type of jobs due to the impact of pandemic
+
